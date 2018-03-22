@@ -11,11 +11,12 @@ h1 {
   border-bottom: 1px solid #000;
 }
 
-@media only screen and (min-width: 60em){
+@media only screen and (min-width: 60em) {
 
   .pad-l {
     padding-left: .5rem;
   }
+
   .pad-r {
     padding-right: .5rem;
   }
